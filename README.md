@@ -645,5 +645,5 @@ When a student can finally see their entire campus life in one place, understood
 </p>
 
 <p align="center">
-  Built with ❤️ by <strong>Amit</strong>, <strong>Anshuman</strong>, and <strong>Surabhi</strong>
+  Built with ❤️ by <strong>Apurv</strong>, <strong>Amit</strong>, <strong>Anshuman</strong>, and <strong>Surabhi</strong>
 </p>
