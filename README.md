@@ -610,6 +610,7 @@ CampusOS is not 10 apps stitched together. It is **one AI brain** that understan
 |------|------|
 | **Amit** | Full Stack Development & Architecture |
 | **Anshuman** | AI Systems & Backend Engineering |
+| **Apurv** | AI Systems & Full Stack Development |
 | **Surabhi** | Frontend Development & UI/UX Design |
 
 ---
